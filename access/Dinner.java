@@ -1,4 +1,4 @@
-//: access/Dinner.java
+package access;//: access/Dinner.java
 // Uses the library.
 import access.dessert.*;
 
@@ -10,3 +10,6 @@ public class Dinner {
 } /* Output:
 Cookie constructor
 *///:~
+
+
+

@@ -1,4 +1,4 @@
-//: access/FullQualification.java
+package access;//: access/FullQualification.java
 
 public class FullQualification {
   public static void main(String[] args) {

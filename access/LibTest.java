@@ -1,4 +1,4 @@
-//: access/LibTest.java
+package access;//: access/LibTest.java
 // Uses the library.
 import net.mindview.simple.*;
 
