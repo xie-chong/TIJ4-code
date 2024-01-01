@@ -1,4 +1,4 @@
-//: generics/BasicBounds.java
+package generics;//: generics/BasicBounds.java
 
 interface HasColor { java.awt.Color getColor(); }
 

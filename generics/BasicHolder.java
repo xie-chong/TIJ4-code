@@ -1,4 +1,4 @@
-//: generics/BasicHolder.java
+package generics;//: generics/BasicHolder.java
 
 public class BasicHolder<T> {
   T element;

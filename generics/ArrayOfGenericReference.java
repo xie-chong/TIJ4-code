@@ -1,4 +1,4 @@
-//: generics/ArrayOfGenericReference.java
+package generics;//: generics/ArrayOfGenericReference.java
 
 class Generic<T> {}
 

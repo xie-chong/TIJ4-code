@@ -1,4 +1,4 @@
-//: generics/ByteSet.java
+package generics;//: generics/ByteSet.java
 import java.util.*;
 
 public class ByteSet {

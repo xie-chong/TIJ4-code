@@ -1,7 +1,9 @@
-package generics.exercise05;
+package generics.e_05;
 
 
 //: generics/E05_LinkedStack2.java
+
+import java.util.Iterator;
 
 /****************** Exercise 5 *****************
  * Remove the type parameter on the Node class and
@@ -44,6 +46,9 @@ class LinkedStack<T> {
     }
 
     public static void main(String[] args) {
+
+        Iterable iterable;
+        Iterator o;
         LinkedStack<String> lss = new LinkedStack<String>();
         for (String s : "Phasers on stun!".split(" "))
             lss.push(s);
