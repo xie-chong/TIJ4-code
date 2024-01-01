@@ -1,4 +1,4 @@
-//: exceptions/CleanupIdiom.java
+package exceptions;//: exceptions/CleanupIdiom.java
 // Each disposable object must be followed by a try-finally
 
 class NeedsCleanup { // Construction can't fail

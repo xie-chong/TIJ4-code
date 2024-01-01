@@ -1,4 +1,6 @@
-//: initialization/Burrito.java
+package initialization;//: initialization/Burrito.java
+
+import enumerated.Spiciness;
 
 public class Burrito {
   Spiciness degree;
